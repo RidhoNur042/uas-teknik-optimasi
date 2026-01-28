@@ -1,3 +1,6 @@
+Berikut Saya sertakan screenshot hasil 2 pogram GA dan ACO 
+
+
 <img width="463" height="705" alt="image" src="https://github.com/user-attachments/assets/746c6409-5537-4619-95f1-e96eea65fce8" />
 
 <img width="605" height="307" alt="image" src="https://github.com/user-attachments/assets/be0974d2-cc53-4903-ad2b-66faf699eba0" />
