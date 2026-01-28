@@ -117,6 +117,22 @@ python "ACO ziarah.py"
 * Seluruh parameter dan output telah disesuaikan dengan ketentuan UAS Teknik Optimasi.
 
 ---
+## 📊 Hasil Eksekusi Program
 
+### Genetic Algorithm (GA)
+Nilai minimum global diperoleh setelah seluruh iterasi dijalankan.
 
-kerja bagus bro 👏 sekarang tinggal **submit** 😎
+![Output GA](screenshots/ga_output.png)
+
+Nilai minimum global GA: **Rp X**
+
+---
+
+### Ant Colony Optimization (ACO)
+Nilai minimum global diperoleh setelah iterasi maksimum tercapai.
+
+![Output ACO](<img width="457" height="681" alt="image" src="https://github.com/user-attachments/assets/82a0db0d-8894-445c-8552-175bd703197a" />
+)
+
+Nilai minimum global ACO: **1377 km**
+
