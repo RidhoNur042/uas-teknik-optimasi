@@ -1,4 +1,4 @@
-Berikut Saya sertakan screenshot hasil 2 pogram GA dan ACO 
+Berikut Saya sertakan screenshot hasil output 2 pogram GA dan ACO 
 
 
 <img width="463" height="705" alt="image" src="https://github.com/user-attachments/assets/746c6409-5537-4619-95f1-e96eea65fce8" />
